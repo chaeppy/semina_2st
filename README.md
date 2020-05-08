@@ -7,12 +7,18 @@
 ![4](https://user-images.githubusercontent.com/60434971/81429436-c981b980-9198-11ea-9f16-7c2f5e064f6f.jpg)
 
 #[기본과제 2]
+
 *ItemDecoration
+
 -RecyclerView의 아이템들을 꾸미는 역할
+
 -RecyclerView에 내부에 존재하고있는 추상클래스
+
 -getItemOffsets 함수 
+
 :recyclerView안에 있는 아이템간에 간격을 설정해 줄 수 있다.
 :좌우 간격이 필요할 경우 outRect.right = 20
+
 상하일 경우 top or bottom을 좌우는 left or right 를 사용.
 참고-https://heepie.me/367, https://altongmon.tistory.com/792, https://inma.tistory.com/67
 
