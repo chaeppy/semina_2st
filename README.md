@@ -1,6 +1,8 @@
 # semina_2st
 
 #[기본과제 1]
+
+
 ![1](https://user-images.githubusercontent.com/60434971/81453290-2181e580-91c4-11ea-8c02-766180416f0f.jpg)
 
 
