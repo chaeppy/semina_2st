@@ -2,8 +2,14 @@
 
 #[기본과제 1]
 ![1](https://user-images.githubusercontent.com/60434971/81453290-2181e580-91c4-11ea-8c02-766180416f0f.jpg)
+
+
 ![2](https://user-images.githubusercontent.com/60434971/81453292-221a7c00-91c4-11ea-8ba5-0c8dba88f122.jpg)
+
+
 ![3](https://user-images.githubusercontent.com/60434971/81453286-1fb82200-91c4-11ea-9838-fcfde301afcc.jpg)
+
+
 ![4](https://user-images.githubusercontent.com/60434971/81453288-20e94f00-91c4-11ea-9e8c-1455e87bb9ce.jpg)
 
 #[기본과제 2]
