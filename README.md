@@ -11,17 +11,15 @@
 *ItemDecoration
 
 -RecyclerView의 아이템들을 꾸미는 역할
-
 -RecyclerView에 내부에 존재하고있는 추상클래스
-
 -getItemOffsets 함수 
-
 :recyclerView안에 있는 아이템간에 간격을 설정해 줄 수 있다.
 :좌우 간격이 필요할 경우 outRect.right = 20
-
 상하일 경우 top or bottom을 좌우는 left or right 를 사용.
+
 참고-https://heepie.me/367, https://altongmon.tistory.com/792, https://inma.tistory.com/67
 
 *clipToPadding
+
 - android:clipToPadding="false"로 설정하면 Padding공간을 Scroll공간으로 사용가능하다.
 참고- https://youngest-programming.tistory.com/73
