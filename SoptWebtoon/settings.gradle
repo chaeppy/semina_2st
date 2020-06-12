@@ -1,0 +1,2 @@
+rootProject.name='SoptWebtoon'
+include ':app'
