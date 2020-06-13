@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
             }
         })
 
-        bottomNavigationView.setOnNavigationItemReselectedListener {
+        bottomNavigationView.setOnNavigationItemSelectedListener {
             when(it.itemId){
                 R.id.menu_webtton -> main_viewPager.currentItem = 0
                 R.id.menu_recommend -> main_viewPager.currentItem = 1
